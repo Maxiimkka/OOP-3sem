@@ -1,0 +1,81 @@
+********************************
+
+Action: KMIDiskInfo.getFreeDrivesSpace()
+Date/Time: 21.10.2023 23:45:30
+
+********************************
+
+Action: KMIDirInfo.GetDirInfo()
+Path: M:\ооп\Lab12
+Date/Time: 21.10.2023 23:45:30
+
+********************************
+
+Action: KMIFileManager.GetAllDirsAndFilesOfDisk()
+Path: M:\
+Date/Time: 21.10.2023 23:45:30
+
+********************************
+
+Action: KMIFileManager.GetAllFilesWithExtension()
+Path: M:\ооп\FoIS
+Date/Time: 21.10.2023 23:45:30
+
+********************************
+
+Action: KMIDiskInfo.getFreeDrivesSpace()
+Date/Time: 21.10.2023 23:47:26
+
+********************************
+
+Action: KMIDirInfo.GetDirInfo()
+Path: M:\ооп\Lab12
+Date/Time: 21.10.2023 23:47:26
+
+********************************
+
+Action: KMIFileManager.GetAllDirsAndFilesOfDisk()
+Path: M:\
+Date/Time: 21.10.2023 23:47:26
+
+********************************
+
+Action: KMIFileManager.GetAllFilesWithExtension()
+Path: M:\ооп\FoIS
+Date/Time: 21.10.2023 23:47:26
+
+********************************
+
+Action: KMIFileManager.CreateZip()
+Path: M:\ооп\Lab12\KMIInspect\KMIFiles
+Date/Time: 21.10.2023 23:47:26
+
+********************************
+
+Action: KMIDiskInfo.getFreeDrivesSpace()
+Date/Time: 21.10.2023 23:51:03
+
+********************************
+
+Action: KMIDirInfo.GetDirInfo()
+Path: M:\ооп\Lab12
+Date/Time: 21.10.2023 23:51:03
+
+********************************
+
+Action: KMIFileManager.GetAllDirsAndFilesOfDisk()
+Path: M:\
+Date/Time: 21.10.2023 23:51:03
+
+********************************
+
+Action: KMIFileManager.GetAllFilesWithExtension()
+Path: M:\ооп\FoIS
+Date/Time: 21.10.2023 23:51:03
+
+********************************
+
+Action: KMIFileManager.CreateZip()
+Path: M:\ооп\Lab12\KMIInspect\KMIFiles
+Date/Time: 21.10.2023 23:51:03
+
